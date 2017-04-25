@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_956f13c8ee03cdb2d14c2399ee0eedc3ec587889\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_2877e00eaa119a95f936960b97c23ba82caf7c56\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_e7669620d632d197d2ef8a02fc3169501d102e82\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_8f90b43d0af5c4099ee6485daa3a38a66421b99a\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="59a2f56ac28fde84424e4337f99f27d70238ad86">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aaedb1d416ba05888c33a4ce286b0606a2fe90e4\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_5f929fc3d897c1a89f8725fd68db5851e49c108d\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.0_96d0c06bd437a398ab01f1d3a9c3f45c485f9368\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_a7dd4f44c13c523b20e428536201c5b8eaeaee00\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_beb10da5c0d56945ee7b06a88173edc7a85cc15a\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_6fc0833d7c91a32c1a25a56116b70d39126411e5\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_7e509a13952273009625a153cd04e81cf13cdb90\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_a7928c6e9a4515b1bb5b324c5b6acd9653bdf083\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_18ff248f6c93c1c66e39c476069c1c9d255d1c55\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="13f6cc3d9b534a994fbcc22df9468ccc8c28a296">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e17ada234394b0c7dd9cc0af9396a31ce278a09f\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_58546d2b4df9fb4ddc3ad4e385bdc0c169a14bcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_441d27bfa54b727f8f37238e37ea97003891060f\classes.dex" />
+    </item>
+    <item
+        jar="G:\Pink\Slimshady\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="G:\Pink\Slimshady\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_eab7d572848fb7fa250d7ee4bf0029685affd8fb\classes.dex" />
+    </item>
+
+</items>

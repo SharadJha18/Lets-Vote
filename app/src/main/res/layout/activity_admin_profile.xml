@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.sharadjha.slimshady.AdminProfile">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:text="Welcome Mr. Sharad Jha "
+        android:textColor="#fff"
+        android:textSize="25dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bViewVoter"
+            android:layout_width="160dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/custom_btn1"
+            android:drawableTop="@drawable/ic_voter"
+            android:text="View Voters"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/bViewCan"
+            android:layout_width="160dp"
+            android:layout_height="200dp"
+            android:layout_gravity="end|center_vertical"
+            android:layout_margin="25dp"
+            android:background="@drawable/custom_btn1"
+            android:drawableTop="@drawable/ic_candidate"
+            android:text="View Candidates"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bDeclareResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="40dp"
+        android:background="@drawable/custom_btn1"
+        android:text="Declare Results"
+        android:textColor="#fff" />
+
+</LinearLayout>

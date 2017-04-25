@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>      <!-- Toolbar -->
+    <color name="colorPrimaryTransparent">#ad34495e</color>      <!-- Toolbar -->
+    <color name="colorPrimaryDark">#212e3b</color>  <!-- Status Bar -->
+    <color name="colorAccent">#34495e</color>     <!-- fab/hint -->
+    <color name="colorIcon">#000</color>         <!-- icons -->
+    <color name="colorBg">#9E9E9E</color>              <!-- background color -->
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sharadjha.slimshady">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/vote_logo"
+        android:label="Let&apos;s Vote"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/AppThemeNoTitleBar">
+            <intent-filter>
+                <action android:name="com.example.sharadjha.slimshady.SplashScreen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VoterSignUp"
+            android:label="Voter Registration">
+            <intent-filter>
+                <action android:name="com.example.sharadjha.slimshady.VoterLogin" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VoterLogin"
+            android:label="Voter Login" />
+        <activity
+            android:name=".VoterProfile"
+            android:label="Voter Profile" />
+        <activity
+            android:name=".CandidateRegistration"
+            android:label="Candidate Registration" />
+        <activity android:name=".CandidateLogin" />
+        <activity android:name=".SignUpPage" />
+        <activity android:name=".CandidateList" />
+        <activity android:name=".LoginPage" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".AdminLogin" />
+        <activity android:name=".CandidateProfile" />
+        <activity android:name=".AdminProfile" />
+
+        <activity android:name=".ViewCandidates" />
+        <activity android:name=".ViewVoters" />
+        <activity android:name=".Result"></activity>
+    </application>
+
+</manifest>
